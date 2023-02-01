@@ -1,0 +1,32 @@
+{
+    "Official": [
+        {
+            "title": "乐高官网",
+            "address": "https://www.lego.com/zh-cn"
+        }
+    ],
+    "Star": [
+        {
+            "title": "我的B站收藏",
+            "address": "https://space.bilibili.com/588552300/favlist?fid=1420826600&ftype=create"
+        }
+    ],
+    "Collection": [
+        {
+            "title": "我的B站合集",
+            "address": "https://space.bilibili.com/588552300/channel/collectiondetail?sid=389671"
+        }
+    ],
+    "Shop": [
+        {
+            "title": "京东旗舰店",
+            "address": "https://mall.jd.com/index-790139.html"
+        }
+    ],
+    "UP": [
+        {
+            "title": "LEGO乐高",
+            "address": "https://space.bilibili.com/1432747633"
+        }
+    ]
+}
