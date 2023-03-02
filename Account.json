@@ -4,6 +4,21 @@
             "platform": "哔哩哔哩",
             "name": "CheeseburgerIM",
             "address": "https://space.bilibili.com/588552300"
+        },
+        {
+            "platform": "Github",
+            "name": "CheeseburgerIM",
+            "address": "https://github.com/CheeseburgerIM"
+        },
+        {
+            "platform": "Gitee",
+            "name": "PanYizhe",
+            "address": "https://gitee.com/PanYizhe"
+        },
+        {
+            "platform": "米游社",
+            "name": "TonyChai",
+            "address": "https://www.miyoushe.com/ys/accountCenter/postList?id=317931014"
         }
     ]
 }
