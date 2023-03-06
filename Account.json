@@ -21,6 +21,16 @@
             "address": "https://www.miyoushe.com/ys/accountCenter/postList?id=317931014"
         },
         {
+            "platform": "QQ音乐",
+            "name": "CheeseburgerIM",
+            "address": "https://c6.y.qq.com/base/fcgi-bin/u?__=8Ps6TG4n3hgl"
+        },
+        {
+            "platform": "网易云音乐",
+            "name": "CheeseburgerIM",
+            "address": "https://y.music.163.com/m/user?id=542339878"
+        },
+        {
             "platform": "小红书",
             "name": "CheeseburgerIM",
             "address": "https://www.xiaohongshu.com/user/profile/618b43fe00000000100067f5"
