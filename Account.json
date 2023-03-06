@@ -29,6 +29,16 @@
             "platform": "抖音",
             "name": "CheeseburgerIM",
             "address": "https://www.douyin.com/user/MS4wLjABAAAA11Y8yeg3zjyGukOpr2pv3YesnrQcH7nk0gROhcZKjTg"
+        },
+        {
+            "platform": "知乎",
+            "name": "TJU-1Zhe",
+            "address": "https://www.zhihu.com/people/CheeseburgerIM"
+        },
+        {
+            "platform": "微博",
+            "name": "CheeseburgerIM",
+            "address": "https://weibo.com/CheeseburgerIM"
         }
     ]
 }
