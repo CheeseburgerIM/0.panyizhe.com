@@ -19,6 +19,16 @@
             "platform": "米游社",
             "name": "TonyChai",
             "address": "https://www.miyoushe.com/ys/accountCenter/postList?id=317931014"
+        },
+        {
+            "platform": "小红书",
+            "name": "CheeseburgerIM",
+            "address": "https://www.xiaohongshu.com/user/profile/618b43fe00000000100067f5"
+        },
+        {
+            "platform": "抖音",
+            "name": "CheeseburgerIM",
+            "address": "https://www.douyin.com/user/MS4wLjABAAAA11Y8yeg3zjyGukOpr2pv3YesnrQcH7nk0gROhcZKjTg"
         }
     ]
 }
